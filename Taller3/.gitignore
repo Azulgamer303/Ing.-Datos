@@ -1,0 +1,6 @@
+#Ignore .env
+.env
+#Ignore datos
+datos
+#Ignore venv
+.venv
